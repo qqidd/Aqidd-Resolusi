@@ -1,2 +1,2 @@
 # Aqidd-Resolusi
-Rencana aqid masa depan
+The future of aqid
