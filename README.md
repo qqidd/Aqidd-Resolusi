@@ -1,2 +1,2 @@
 # Aqidd-Resolusi
-The future of aqid
+-The future of aqid
